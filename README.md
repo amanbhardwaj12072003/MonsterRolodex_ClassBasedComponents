@@ -1,5 +1,5 @@
-# Monsters Rolodex - Class Based Components In React.JS
-Monster rolodex is a webpage made to demonstrate my skills in class based components in React.JS
+# Monsters Rolodex
+Monster rolodex is a webpage made to demonstrate my skills in "Class Based Components In React.JS"
 
 ## Owner Information 
 ### Name : 
